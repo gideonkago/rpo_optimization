@@ -1,1 +1,7 @@
 1 2 3 
+git config --global http.sslbackend schannel
+git clone xxx
+nano ..
+git add .
+git commit -m "new file"
+git push
